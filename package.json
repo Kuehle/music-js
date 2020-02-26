@@ -1,0 +1,15 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "Before I begin, I am in no way an expert in the topic, all I'll try to do is to provide a simple introduction to the topic of creating music from code. If you are looking for experts check out [TOPLAP](https://toplap.org/), a page dedicated to live coding music.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
